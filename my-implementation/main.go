@@ -38,7 +38,7 @@ func parseFile() {
 	fileScanner.Split(bufio.ScanLines)
 
 	lines := 1000
-	data := make([]measurement, 0, 1000)
+	data := make([]measurement, 0, 1000) // I can't even allocate an array of 1billion
 	for fileScanner.Scan() {
 		text := fileScanner.Text()
 		measurement := processLine(text)
