@@ -1,0 +1,1002 @@
+Hello World
+{Honolulu 51.2}
+{Chișinău 2.1}
+{Palmerston North 21.8}
+{Minneapolis 14.600000000000001}
+{Brussels 22.3}
+{Managua 16.3}
+{Alice Springs 14.600000000000001}
+{Yakutsk 5.4}
+{Guadalajara 41.2}
+{Algiers 8.8}
+{Omaha 9.5}
+{Irkutsk 7.2}
+{Douala 13.600000000000001}
+{Dallas 25.8}
+{Suva 23.1}
+{Gangtok 11.600000000000001}
+{Da Nang 14.100000000000001}
+{Oslo 7.9}
+{Beijing 4}
+{Libreville 38}
+{Alice Springs 15.3}
+{Hat Yai 11.100000000000001}
+{Ouahigouya 41.7}
+{Ndola 30.700000000000003}
+{Wichita 10.8}
+{Bissau 35.7}
+{San Salvador 4.5}
+{Guatemala City 16.6}
+{Villahermosa 16.6}
+{Erbil 13.5}
+{Kankan 17.1}
+{Beirut 25.3}
+{Entebbe 38.2}
+{Oklahoma City 22.8}
+{La Ceiba 30.8}
+{Canberra 6.800000000000001}
+{Harare 16.1}
+{Memphis 9.1}
+{Hiroshima 29.200000000000003}
+{Lusaka 23.6}
+{Sofia 13}
+{Panama City 24.1}
+{Tamanrasset 18.1}
+{Vaduz 0.6000000000000001}
+{Naha 15.5}
+{Praia 43.7}
+{Lahore 24.8}
+{Budapest -1.3}
+{Hong Kong 39.7}
+{Upington 15.100000000000001}
+{Medan 29.6}
+{Guangzhou 17.1}
+{Kathmandu 5}
+{Port Vila 21.5}
+{London 19.8}
+{Mexico City 8.9}
+{Tallinn -5}
+{Libreville 20.3}
+{Fairbanks -7.2}
+{Tabriz 12.100000000000001}
+{Banjul 40.7}
+{Las Palmas de Gran Canaria 25.1}
+{Las Vegas 29.700000000000003}
+{Singapore 27.700000000000003}
+{Hargeisa 12}
+{Mexico City 18.6}
+{Kyiv 8.1}
+{Boise 20.5}
+{Zagreb -3.5}
+{Changsha 15.4}
+{Paris 11.9}
+{Gjoa Haven -22.6}
+{Tamanrasset 16.3}
+{Valletta 35.2}
+{Cairns 17.3}
+{Frankfurt 20.3}
+{Assab 35.1}
+{Dodoma 11}
+{Nuuk -6.800000000000001}
+{Seattle 19}
+{Yerevan 12.5}
+{Lodwar 20.1}
+{Hobart 21.3}
+{Ürümqi -1.7000000000000002}
+{Kabul 5.2}
+{Bridgetown 38.2}
+{Santo Domingo 32.7}
+{Nashville 19.1}
+{Changsha 20.3}
+{Ankara 9.9}
+{Pittsburgh -10.600000000000001}
+{Toronto -7.5}
+{Dallas 13.9}
+{Taipei 17.5}
+{Lusaka 39.6}
+{Detroit 5.7}
+{Willemstad 30.3}
+{Ulaanbaatar 26.6}
+{Zanzibar City 23.1}
+{Albuquerque 26.3}
+{Bridgetown 23.8}
+{Tripoli 35.800000000000004}
+{Alexandria -1.1}
+{Darwin 31.6}
+{Frankfurt 19.3}
+{Nicosia -1}
+{Melbourne 17.1}
+{Palmerston North 7}
+{Garoua 42.300000000000004}
+{Zagreb 4}
+{Kingston 44.6}
+{Ouarzazate -1.6}
+{Toamasina 13.600000000000001}
+{Karonga 21.5}
+{Rostov-on-Don 4.5}
+{Jacksonville 19.6}
+{Whitehorse 10.5}
+{Karachi 32.7}
+{New Delhi 39.1}
+{Darwin 27}
+{Chicago 16.6}
+{San Francisco 0.8}
+{Palermo 16.6}
+{Los Angeles 19.3}
+{Tauranga 8.5}
+{Tijuana 9.3}
+{New Orleans 30.8}
+{Belize City 15.8}
+{Bamako 31.1}
+{Omaha 11.8}
+{Niamey 18.6}
+{City of San Marino 18.3}
+{Mahajanga 31.700000000000003}
+{Sapporo 11.8}
+{Ouagadougou 15.4}
+{Rangpur 33.7}
+{Port Moresby 18.3}
+{Abéché 38}
+{Erzurum 20.3}
+{Luanda 5.4}
+{Suwałki 4.7}
+{Lviv 8.6}
+{Hanoi 20.3}
+{Praia 32.2}
+{Napier 23.1}
+{San José 8.3}
+{Mogadishu 32.300000000000004}
+{Port-Gentil 14.600000000000001}
+{Skopje 27}
+{Sapporo 4.7}
+{Ouarzazate 22.8}
+{Timbuktu 11.8}
+{Bridgetown 14.100000000000001}
+{Oklahoma City -13.5}
+{Seoul 4.2}
+{Odienné 30.3}
+{Roseau 30.200000000000003}
+{Dar es Salaam 20.6}
+{Wellington 11.9}
+{Christchurch 22}
+{Muscat 38.800000000000004}
+{Odesa 19}
+{Jayapura 43.800000000000004}
+{Garissa 43.7}
+{London 9.1}
+{Jacksonville 14.9}
+{Karachi 34.1}
+{Ashgabat 23.5}
+{Perth 15}
+{Lahore 4.2}
+{Bridgetown 30.700000000000003}
+{Murmansk -11.4}
+{Wau 22.1}
+{Harare 26.1}
+{Suva 10.8}
+{Sapporo 13.8}
+{Tunis 16.5}
+{Luxembourg City -4.2}
+{Alice Springs 27.3}
+{Algiers 10.100000000000001}
+{Stockholm 1.6}
+{Maputo 34.1}
+{Suwałki 2}
+{Mumbai 23}
+{Yinchuan -0.5}
+{Sokoto 20.6}
+{Split 17.6}
+{Karachi 20.1}
+{Mogadishu 28.3}
+{Dampier 42.5}
+{Toronto 13.100000000000001}
+{Odesa 8.6}
+{Detroit 0.2}
+{Ahvaz 33.7}
+{Kathmandu 12.9}
+{Copenhagen 18.6}
+{Vancouver -3.5}
+{Tripoli 19.8}
+{Alice Springs 22.8}
+{Tripoli 21.3}
+{Bata 15.8}
+{Indianapolis 4.7}
+{Canberra 17.8}
+{Maputo 33.2}
+{Yaoundé 21.6}
+{Tauranga 14.9}
+{Napoli 1.6}
+{Havana 20.3}
+{Johannesburg 28.8}
+{Kansas City 19.3}
+{Antananarivo 15.600000000000001}
+{San José 9.5}
+{Seoul 19.5}
+{Tampa 18.8}
+{Tijuana 11.5}
+{Denver 10.9}
+{Dhaka 29.200000000000003}
+{Timbuktu 35.1}
+{Oulu -6.2}
+{Paris 23.3}
+{Upington 20.8}
+{Fresno 26.8}
+{Ghanzi 16.1}
+{Baghdad 8}
+{Johannesburg 11.8}
+{Mek'ele 43.1}
+{Las Vegas 30}
+{Auckland 4}
+{Melbourne -3.1}
+{Kumasi 39}
+{Villahermosa 23.8}
+{Dhaka 32.1}
+{Podgorica 18.6}
+{Beijing 13}
+{Paris 1.5}
+{Bata 28}
+{Conakry 48.800000000000004}
+{Ngaoundéré 19.1}
+{Gjoa Haven -2.3000000000000003}
+{Valletta 22.8}
+{Alice Springs 18.8}
+{Vientiane 28.5}
+{Fairbanks -18.8}
+{Anadyr 7}
+{Vladivostok 15.100000000000001}
+{Ankara -2.2}
+{Xi'an 18.8}
+{Zürich 14.600000000000001}
+{Detroit 4.9}
+{Las Palmas de Gran Canaria 35}
+{Alexandra 12.100000000000001}
+{Tel Aviv 33.5}
+{Wellington 19.8}
+{Lusaka 7.9}
+{Zanzibar City 31.8}
+{Chiang Mai 9.1}
+{Guadalajara 15}
+{San Francisco 27.5}
+{Louisville 13.9}
+{Mombasa 35.800000000000004}
+{Kyoto 23.1}
+{Dakar 45.2}
+{Tbilisi 24}
+{Memphis 9.3}
+{Rangpur 5.9}
+{Riyadh 14.100000000000001}
+{Montreal -5.5}
+{Erzurum 10.5}
+{Tabora 23.6}
+{Valencia 27.1}
+{Assab 16.3}
+{Parakou 30.6}
+{Nicosia 16}
+{Kathmandu 11.9}
+{Hanoi 8.9}
+{Melbourne 14.600000000000001}
+{Canberra 13.8}
+{Canberra 9}
+{Boise 8.6}
+{Ndola 19.5}
+{Heraklion 21.1}
+{Rome 21.3}
+{Seoul 2.1}
+{Madrid 17.1}
+{Timbuktu 29.5}
+{Durban 22.3}
+{Copenhagen 10.3}
+{Karachi 14.100000000000001}
+{Pyongyang -1.5}
+{Tunis 17.1}
+{Bucharest 5.9}
+{Bergen 18.8}
+{Juba 35.6}
+{Aden 28.5}
+{Timbuktu 23.5}
+{Alexandra 15.8}
+{Vientiane 17}
+{Tashkent 26.3}
+{Malabo 37.7}
+{Makassar 17.1}
+{Kampala 5.7}
+{Damascus 15.9}
+{Almaty 11.600000000000001}
+{Bergen 12}
+{Havana 29.5}
+{Hanga Roa 22.3}
+{Nassau 24.3}
+{Moncton 0.8}
+{Algiers 5}
+{Mombasa 34}
+{Busan 10.8}
+{Upington 33.800000000000004}
+{Toliara 21.8}
+{Kumasi 10.5}
+{Harare 22.5}
+{Entebbe 14.600000000000001}
+{Arkhangelsk 1.3}
+{Kabul 14.600000000000001}
+{Surabaya 33.6}
+{Tashkent 6.7}
+{Timbuktu 29.8}
+{Hanga Roa 31.5}
+{Lubumbashi 25.6}
+{Makurdi 30.8}
+{Tallinn 0.8}
+{Portland (OR) 22.1}
+{Durban 1.1}
+{Paris 0}
+{Anchorage 5}
+{Monaco 27.3}
+{Minsk 15.600000000000001}
+{Saint-Pierre -7.2}
+{Milwaukee 13.600000000000001}
+{Sochi 0.2}
+{Guatemala City 15.600000000000001}
+{Tunis 2}
+{Maputo 18.1}
+{Chicago 1.6}
+{Bulawayo 21.6}
+{Conakry 16.8}
+{Lyon 11.3}
+{Anchorage 10.600000000000001}
+{Naha 10.8}
+{Winnipeg -1.1}
+{Tehran 12.9}
+{Wau 16.3}
+{La Ceiba 36.2}
+{Ndola 23.3}
+{Frankfurt 24.3}
+{Honiara 26}
+{Port Moresby 47}
+{Baku 15.5}
+{Xi'an 21.3}
+{Maun 11}
+{Tashkent 21.8}
+{Entebbe 3}
+{Odesa 22.6}
+{Algiers 13.100000000000001}
+{Warsaw 2}
+{Jakarta 26.5}
+{Tampa 22.5}
+{Tampa 24.1}
+{Tbilisi 21.3}
+{Tromsø 13.8}
+{Damascus 1.3}
+{Charlotte 13.100000000000001}
+{Sofia 5.5}
+{Baguio 19}
+{Addis Ababa 6.800000000000001}
+{Batumi 11.4}
+{Tauranga 11}
+{Dar es Salaam 23.8}
+{Colombo 42.2}
+{Vancouver 37.5}
+{Zanzibar City 29.700000000000003}
+{Vientiane 23.1}
+{Hong Kong 30}
+{Dushanbe 13}
+{Ouahigouya 30.8}
+{Erbil 6.2}
+{Blantyre 16.1}
+{San Antonio 5.5}
+{Lhasa 11.4}
+{Dunedin 3}
+{Oulu -6.9}
+{Tehran 6.5}
+{San Francisco 2.5}
+{Denver -6.2}
+{Luanda 11.5}
+{Darwin 27.8}
+{Charlotte 12.4}
+{Oranjestad 27.3}
+{Beijing -3.9000000000000004}
+{Fairbanks 2.6}
+{Mumbai 24.8}
+{Libreville 24.6}
+{Napier 25.3}
+{Oulu 3.9000000000000004}
+{Malabo 19.8}
+{Birao 31.8}
+{Conakry 19.5}
+{Baltimore 2.5}
+{Dikson -16.1}
+{Skopje 21.1}
+{Lubumbashi 42.2}
+{Bamako 35}
+{Las Vegas 16.6}
+{Detroit -8.9}
+{Mzuzu 24.5}
+{Astana 15.9}
+{Virginia Beach 16.5}
+{Antsiranana 13.4}
+{Launceston 24.3}
+{Warsaw 1.8}
+{Reykjavík 11.5}
+{N'Djamena 8.5}
+{Pittsburgh 20}
+{Milan 1.8}
+{Ho Chi Minh City 37}
+{Hamilton 19.6}
+{Hamburg 19.1}
+{Hobart 38.7}
+{Virginia Beach 21.8}
+{Erbil 31.700000000000003}
+{Libreville 32.6}
+{Aden 26.5}
+{Surabaya 27.5}
+{Lodwar 17.1}
+{Warsaw -8}
+{Gaborone 30.6}
+{Roseau 26.3}
+{Lodwar 39.6}
+{Prague 28.3}
+{Xi'an 15.3}
+{Phnom Penh 48.7}
+{Sofia 10.100000000000001}
+{Kuopio 9.9}
+{Ankara 9.4}
+{Entebbe 20.6}
+{Kuopio -10.8}
+{Saint-Pierre 24}
+{Perth 18.3}
+{Dar es Salaam 25.3}
+{Ghanzi 23}
+{Brazzaville 33.800000000000004}
+{Niamey 43.7}
+{Gagnoa 38.5}
+{Cairo 28.8}
+{Denpasar 13.8}
+{Marrakesh 36}
+{Lhasa -13.9}
+{Warsaw 19.8}
+{Tallinn 7.300000000000001}
+{Medan 36.2}
+{Abidjan 13.5}
+{Vienna 6.2}
+{Omaha -4.7}
+{Skopje 12}
+{Ljubljana 6.9}
+{Nouadhibou 27.200000000000003}
+{Cape Town 6.5}
+{Budapest 12.8}
+{Amsterdam 17.6}
+{Madrid 11.5}
+{Karonga 27.8}
+{Bosaso 42.2}
+{Asmara 28.3}
+{Honiara 19.6}
+{Monaco 22.3}
+{Havana 23.6}
+{Colombo 7.4}
+{Kuala Lumpur 35.300000000000004}
+{Helsinki 22.1}
+{Philadelphia 18.1}
+{Marseille 14.100000000000001}
+{Tucson 39.2}
+{San José 30.8}
+{Minsk 29.3}
+{Wrocław -7.300000000000001}
+{Lagos 26.6}
+{Petropavlovsk-Kamchatsky 0.1}
+{Saint Petersburg 13.100000000000001}
+{Manila 19.8}
+{Fukuoka 21}
+{Pretoria 2}
+{Maun 33}
+{Vientiane 22.1}
+{Colombo 31.8}
+{Bloemfontein -1}
+{Vancouver 1}
+{Port Vila 27.6}
+{Alexandra -9.8}
+{Malé 39.2}
+{Port Sudan 40.7}
+{New Orleans 24.6}
+{Busan 14.600000000000001}
+{Karachi 37.300000000000004}
+{Kano 30.5}
+{Nouadhibou 27.6}
+{Gabès 17.1}
+{Tripoli 15.3}
+{Ouahigouya 35.5}
+{Sana'a 6.4}
+{Tirana 16.8}
+{Addis Ababa 0.2}
+{Winnipeg -5.4}
+{Gaborone 14.9}
+{Khartoum 41.800000000000004}
+{Tromsø 8.8}
+{Benghazi 30.1}
+{Adelaide 8.5}
+{Rostov-on-Don 25}
+{Anchorage 6.4}
+{Iqaluit -26.3}
+{Bucharest 17.6}
+{Athens 27.5}
+{Bloemfontein 13}
+{Abha 15.3}
+{Chicago -2.7}
+{Columbus 26.6}
+{Rangpur 33.7}
+{Nashville 16.1}
+{Mango 25}
+{Rome 14.100000000000001}
+{Iqaluit -19.8}
+{Vancouver 17.8}
+{Dunedin 13.9}
+{Medan 21.5}
+{Jayapura 51.1}
+{Gangtok 15.4}
+{Tamanrasset 27.700000000000003}
+{Nuuk 1.5}
+{Timbuktu 14.600000000000001}
+{Vienna 23}
+{Milan 11}
+{Palmerston North 11.3}
+{Chittagong 1.8}
+{Phoenix 36.7}
+{St. John's -16.8}
+{Conakry 24.3}
+{Las Vegas 23.5}
+{Dodoma 22.1}
+{Hanga Roa 28.5}
+{Helsinki 3.4000000000000004}
+{Kolkata 28.5}
+{Sarajevo 25.8}
+{Hiroshima 15.600000000000001}
+{San Salvador 27.8}
+{Dili 22.1}
+{Toliara 13.600000000000001}
+{Nassau 18.8}
+{Upington 38.800000000000004}
+{Kandi 19.3}
+{Kandi 27}
+{Pontianak 37.6}
+{Novosibirsk -6.7}
+{Yangon -6.7}
+{Marseille 3.6}
+{Marseille 5.5}
+{Perth 24.5}
+{City of San Marino -3.7}
+{Madrid 16.6}
+{Helsinki 6}
+{Guadalajara 14.600000000000001}
+{Yaoundé 12}
+{Assab 37.2}
+{Rangpur -4.4}
+{Jerusalem 28.8}
+{Zagreb 7.4}
+{Saint Petersburg -2.7}
+{Hanga Roa 24.5}
+{Nouadhibou 14.600000000000001}
+{Bergen 7.2}
+{Halifax 2.3000000000000003}
+{San Diego 15.9}
+{Hanoi 22.8}
+{Erbil 15.4}
+{Bata 22.6}
+{Oslo 12.3}
+{Odienné 12.600000000000001}
+{Mahajanga 26.8}
+{Kuwait City 13.100000000000001}
+{Belize City 14.100000000000001}
+{Astana 10.600000000000001}
+{Nashville 22.6}
+{Frankfurt 4}
+{Saskatoon 13.600000000000001}
+{San Jose -11.5}
+{Nairobi 20.8}
+{Kano 10.9}
+{New York City 18.5}
+{Palm Springs 33.300000000000004}
+{Nouakchott 27.1}
+{Chiang Mai 8.4}
+{Zagreb 17.5}
+{San Salvador 24.8}
+{San Jose 18.1}
+{Maputo 26.5}
+{Benghazi 10.100000000000001}
+{Port-Gentil 28.3}
+{Karonga 21.3}
+{Tijuana 9.5}
+{San Francisco 16}
+{Pyongyang 0.9}
+{Shanghai 10.9}
+{Podgorica 3.1}
+{Brisbane 32.7}
+{Marseille 47.7}
+{St. John's 5}
+{Detroit 2.5}
+{Ouahigouya 28.700000000000003}
+{Guatemala City 8.5}
+{Vaduz 0.1}
+{Baguio 12.9}
+{Mexico City 25.5}
+{Colombo 27.8}
+{Kolkata 39}
+{Ottawa 8.1}
+{Helsinki -12.9}
+{Malabo 22.3}
+{Odienné 4.2}
+{Montreal -3.5}
+{Dhaka 16.3}
+{Dampier 23.3}
+{Minsk -3.2}
+{Tabriz 21.5}
+{Indianapolis 4}
+{Canberra 1.8}
+{Veracruz 19.3}
+{St. John's 0.2}
+{Dolisie 13.600000000000001}
+{Manila 40.800000000000004}
+{Baghdad 26.3}
+{Lisbon 19.3}
+{San Juan 38.7}
+{Marrakesh 26.700000000000003}
+{Chicago 17.1}
+{Ürümqi 0}
+{Pretoria 22.6}
+{Sarajevo -7.300000000000001}
+{Lodwar 43.2}
+{Ürümqi 24.6}
+{Minneapolis 7.5}
+{Odesa 12.5}
+{Tabriz 3.9000000000000004}
+{Erbil 3.1}
+{Dushanbe 12.600000000000001}
+{Karonga 15.9}
+{Kampala 19.1}
+{Djibouti 22.3}
+{Seville 2.7}
+{Kuwait City 26.3}
+{Tehran 17.5}
+{Tallinn 9.1}
+{Las Palmas de Gran Canaria 26.8}
+{Vienna 24}
+{Milwaukee 25}
+{Colombo 16.1}
+{Tauranga 3.9000000000000004}
+{London -4}
+{Lagos 13.9}
+{Bishkek 16.3}
+{Bamako 6}
+{Niigata 20.8}
+{Antananarivo 39.7}
+{Fukuoka -13.4}
+{Port Moresby 42.2}
+{City of San Marino 24.1}
+{Seoul 12}
+{Niigata 20.3}
+{Brisbane 23}
+{Seville 25.3}
+{Phoenix 24.3}
+{Yangon 28.6}
+{Ouarzazate 13.4}
+{Sana'a 33}
+{Budapest 7.2}
+{Oslo -6.5}
+{Toliara 21.6}
+{Seattle 6.2}
+{Dubai 24.1}
+{Tokyo 3.7}
+{Porto 15.9}
+{Denpasar 18.1}
+{Kampala 24.1}
+{Abha 21.8}
+{Charlotte 15}
+{Fukuoka 16.6}
+{Havana 33.800000000000004}
+{Lomé 14.100000000000001}
+{Cotonou 27}
+{Havana 29.700000000000003}
+{Cairns 45.2}
+{Seattle 4.2}
+{Banjul 46.800000000000004}
+{Chongqing 1.8}
+{Maun 20.6}
+{Denver -11.600000000000001}
+{Busan 27}
+{Vaduz 24.3}
+{Upington 23.6}
+{Hanoi 26.6}
+{Thiès 35.1}
+{Cape Town 10}
+{Hamburg 10.3}
+{Beijing 21.8}
+{Honiara 29.1}
+{Tabora 16}
+{Tunis -3.1}
+{Tehran 11.100000000000001}
+{Seville 27.8}
+{Makurdi 30}
+{Los Angeles 29}
+{Pontianak 17.5}
+{Jakarta 38.300000000000004}
+{Paris 10}
+{Sochi 4.5}
+{La Paz 26.3}
+{New York City 19.5}
+{Antsiranana 19.6}
+{Port Moresby 31}
+{Dubai 30}
+{Porto 10}
+{Wellington 16.6}
+{Guangzhou 19.3}
+{Palembang 27.700000000000003}
+{Sochi 17.6}
+{Nassau 32}
+{Minsk 22.6}
+{London 21}
+{Pontianak 24.6}
+{Bergen -3.6}
+{Honolulu 38.7}
+{Jayapura 25.3}
+{Anchorage 3.2}
+{Irkutsk 7.800000000000001}
+{Ségou 12}
+{Mombasa 9.1}
+{Manama 38.2}
+{Bergen 8}
+{Ouagadougou 24.8}
+{Conakry 33.7}
+{Lhasa 1.8}
+{Da Nang 17.5}
+{Lusaka 21.6}
+{Petropavlovsk-Kamchatsky 19}
+{Niamey 41.800000000000004}
+{Tucson 31.8}
+{Tabriz 24.5}
+{Hong Kong 29.3}
+{Frankfurt 2.5}
+{Kabul 17.5}
+{Lyon 10.4}
+{Zürich -0.8}
+{Paris 27.8}
+{Ndola 14.3}
+{Tabriz 9.5}
+{Beirut 16.3}
+{Thessaloniki 18.5}
+{Tallinn -17.8}
+{Djibouti 21.3}
+{Frankfurt 11.3}
+{Ulaanbaatar 8.1}
+{Barcelona 32.7}
+{Dikson -6}
+{Livingstone 17.6}
+{Auckland 23.6}
+{Surabaya 25.1}
+{Yangon 33.5}
+{Marseille 11.4}
+{Budapest 15.5}
+{George Town 27}
+{Dodoma 24.3}
+{Changsha 17}
+{Kankan 30.3}
+{Wau 41.2}
+{Dubai 23.3}
+{Tucson 30.700000000000003}
+{Gjoa Haven -14.5}
+{Cairns 22.8}
+{Brisbane 16.1}
+{Miami 11.600000000000001}
+{Mexicali 29.200000000000003}
+{Tel Aviv 28.8}
+{Edinburgh -17.3}
+{Mexicali 19.1}
+{Kunming 17.5}
+{Bouaké 23.8}
+{Dushanbe 16.3}
+{Irkutsk 5.2}
+{Denpasar 26.3}
+{George Town 11.9}
+{San Diego 24.1}
+{Tampa 27}
+{Lisbon 15.4}
+{Tijuana 7.4}
+{Makurdi 16.6}
+{Hanga Roa 17}
+{Kinshasa 27.3}
+{Tbilisi 40.7}
+{Barcelona 21.1}
+{Kinshasa 30.3}
+{Sarajevo 12}
+{Sochi 16.5}
+{Birao 45.6}
+{Copenhagen -0.5}
+{Washington, D.C. 10}
+{Wichita 8}
+{Novosibirsk 18.1}
+{Jos 27.1}
+{Lake Havasu City 25.8}
+{Denver 4.2}
+{Brazzaville 22}
+{Parakou 32.1}
+{Manama 30.3}
+{Las Vegas 16.1}
+{Cairo 25}
+{Luanda 27.1}
+{Salt Lake City 18.6}
+{Moncton 8.9}
+{Valletta 5.2}
+{George Town 9.9}
+{Mexicali 33.2}
+{Tel Aviv 13.5}
+{Kunming 25.6}
+{Oulu -4.9}
+{Abéché 41.2}
+{Mandalay 35.5}
+{Barcelona 11.4}
+{Aden 13.9}
+{Columbus 11}
+{Hanoi 21.8}
+{Barcelona 21.8}
+{Salt Lake City 30.8}
+{Riga 2.6}
+{Lomé 42.300000000000004}
+{Mandalay 41.6}
+{Addis Ababa 37.7}
+{George Town 25.8}
+{Birao 24}
+{Alice Springs 20.3}
+{Irkutsk -2}
+{Burnie 16.6}
+{Assab 19.6}
+{Mogadishu 40.7}
+{Kolkata 34.7}
+{San Antonio 20.6}
+{London 10.100000000000001}
+{Gagnoa 15.4}
+{Cabo San Lucas 23.1}
+{Sapporo 20.5}
+{Santo Domingo 36.2}
+{Split 1.3}
+{Pontianak 10.9}
+{Edmonton 16.3}
+{Oklahoma City 9.8}
+{Santo Domingo 8.3}
+{Da Nang 33.800000000000004}
+{Hanga Roa 24.5}
+{Malé 48.1}
+{George Town 17.3}
+{Conakry 37.5}
+{Podgorica 18.3}
+{Hobart 40.2}
+{Changsha 36}
+{Maputo 20.8}
+{Tromsø 3.2}
+{Port-Gentil 17.8}
+{Thessaloniki 38.7}
+{San Jose 36.300000000000004}
+{Aden 20.6}
+{Mek'ele 21.1}
+{Yangon 24.6}
+{Murmansk -2.2}
+{Tel Aviv 17.6}
+{Napier 13}
+{Warsaw 6}
+{Malabo 30.5}
+{Podgorica 1.1}
+{Douala 28.700000000000003}
+{Vientiane 27.3}
+{Lusaka 5.2}
+{Saskatoon -9.3}
+{Odienné 20}
+{Miami 27.1}
+{Durban 6.5}
+{Las Vegas 9.5}
+{Port-Gentil 24.5}
+{Bilbao 15.100000000000001}
+{Hobart 15.9}
+{Bishkek 9.3}
+{Mahajanga 16.6}
+{Dushanbe 14.600000000000001}
+{Muscat 37.7}
+{Entebbe 10.4}
+{Zagreb 31}
+{Seattle 11.5}
+{Conakry 21.1}
+{Karonga -2.3000000000000003}
+{Odienné 21.1}
+{Irkutsk 10}
+{Hanoi 25.5}
+{Djibouti 40.2}
+{N'Djamena 26.8}
+{Cape Town 10.4}
+{Cotonou 31.6}
+{Fianarantsoa 22.6}
+{Rostov-on-Don 9.3}
+{Seattle 20.3}
+{Aden 22.1}
+{Suva 27.3}
+{Baku 19}
+{Tirana 18.6}
+{Saint-Pierre 4.2}
+{Lviv 13}
+{Riga 26}
+{Bucharest -15.600000000000001}
+{Phnom Penh 23.6}
+{Zagreb 14.100000000000001}
+{Mombasa 23.6}
+{Dubai 9.9}
+{Tabriz 14.4}
+{Singapore 10.100000000000001}
+{Pretoria 38}
+{San Francisco 4.7}
+{Asmara 23.1}
+{London 1.8}
+{Kabul 11.600000000000001}
+{Kolkata 16.3}
+{Baghdad 7}
+{Yangon 25}
+{Busan 27.6}
+{Los Angeles 30.8}
+{Mek'ele 14.9}
+{Makurdi 12.3}
+{Vientiane 23.6}
+{Jayapura 19.5}
+{San Francisco 5}
+{Erzurum 9}
+{Ghanzi 33.7}
+{Port-Gentil 26.6}
+{Colombo 25.3}
+{Tegucigalpa 17.5}
+{Port Moresby 34.2}
+{Bridgetown 44.1}
+{Nuuk 11.3}
+{Nakhon Ratchasima 28.5}
+{Toliara 21.5}
+{Hiroshima -0.9}
+{Hiroshima 15}
+{Hargeisa 22}
+{Kunming -1.1}
+{Livingstone 27.3}
+{Malabo 12.4}
+{Tamale 41.7}
+{La Paz 28.200000000000003}
+{Tamale 2.1}
+{San Diego 7.800000000000001}
+{Kolkata 23.5}
+{Gjoa Haven -9.8}
+{Moscow 10.9}
+{Antsiranana 33}
+{Nassau 33.300000000000004}
+{Zagreb 17}
+{Moncton 13.600000000000001}
+{Virginia Beach 27.8}
+{Anadyr -3.9000000000000004}
+{Baku 44.800000000000004}
+{Winnipeg 20.1}
+{Odienné 14.100000000000001}
+{Cairns 17.8}
+{Milwaukee 9}
+{Kinshasa 14.3}
+{Athens 26.5}
+{Mek'ele 15.4}
+{Zagreb 24.6}
+{Vienna 7.7}
+{Canberra 14.8}
+{Lviv 2.7}
+{Toronto 18.6}
+{Detroit 9.8}
+{Tel Aviv 12.9}
+{Chittagong 26.8}
+{Brussels 19.1}
+{Almaty 11.4}
+{Makurdi 31.5}
+{Kolkata 49.6}
+{Bordeaux 9.3}
+{Tashkent 15.8}
+{Saint-Pierre 21.8}
+{City of San Marino 3.2}
+{Antsiranana 19.1}
+{Antananarivo 17}
+{Charlotte 30.6}
+{Luanda 7.5}
+{Tauranga 20.3}
+{Lake Tekapo -1.3}
+{City of San Marino 22}
+{Praia 16.8}
+{Zagreb 4.9}
+Time taken: 0.001676
